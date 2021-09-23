@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Spartan";
+  src: url("./Spartan-Regular.ttf") format("truetype"),
+    url("./Spartan-SemiBold.ttf") format("truetype");
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Oswald";
+  src: url("./oswald-regular.woff2?#iefix") format("woff2"),
+    url("./oswald-regular.woff") format("woff"),
+    url("./oswald-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  /* font-display: swap; */
+}
